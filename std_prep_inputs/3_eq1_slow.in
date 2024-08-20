@@ -1,0 +1,51 @@
+50 ps thermalization (NVT) at 293 K
+   &cntrl
+    ig = -1,
+    imin = 0,
+
+    ntb = 1, 
+    cut = 10.0, jfastw=0,
+    ntc = 1, ntf=1,
+    tol=1.0E-6,
+
+    tempi = 0.0,
+    temp0 = 293.0,
+    ntt   = 3,
+    gamma_ln = 1.0,
+
+    ntp = 0,
+
+    ntr         =1,
+    restraint_wt  = 10,
+    restraintmask = ':1-2',
+    nstlim      = 25000, dt = 0.001,
+
+    irest = 0, ntx = 1,
+    iwrap=1,
+    ntpr = 1, ntwx = 1, ntwr = 500,
+    
+    nmropt = 1,
+    ifqnt = 1,
+   /
+   &wt
+    type='TEMP0',
+    istep1=0, istep2=24000,
+    value1=0, value2=293.0,
+   &end
+   /
+   &wt
+    type='TEMP0',
+    istep1=24001, istep2=25000,
+    value1=293.0, value2=293.0,
+   &end
+   /
+   &qmmm
+    qmmask=':1-2',
+    qm_ewald = 1,
+    qm_pme = 1,
+    qm_theory = 'PM6',
+    qmcharge = 0,
+    qmshake = 0,
+   /
+   &wt type='END'
+   /
