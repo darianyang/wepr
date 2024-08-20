@@ -1,0 +1,24 @@
+Updating system with the options from the configuration file
+Exception in thread Thread-2 (run):
+Traceback (most recent call last):
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/site-packages/zmq/devices/basedevice.py", line 247, in run
+    self.run_device()
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/site-packages/zmq/devices/proxydevice.py", line 74, in run_device
+    ins, outs, mons = self._setup_sockets()
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/site-packages/zmq/devices/proxydevice.py", line 56, in _setup_sockets
+    ins, outs = Device._setup_sockets(self)
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/site-packages/zmq/devices/basedevice.py", line 219, in _setup_sockets
+    ins.bind(iface)
+  File "/ihome/ssaxena/shp176/anaconda3/envs/we/lib/python3.10/site-packages/zmq/sugar/socket.py", line 302, in bind
+    super().bind(addr)
+  File "zmq/backend/cython/socket.pyx", line 564, in zmq.backend.cython.socket.Socket.bind
+  File "zmq/backend/cython/checkrc.pxd", line 28, in zmq.backend.cython.checkrc._check_rc
+zmq.error.ZMQError: Address already in use (addr='tcp://*:51436')
+-- WARNING  [westpa.work_managers.zeromq.core] -- sending SIGKILL to worker process 59259
+-- WARNING  [westpa.work_managers.zeromq.core] -- sending SIGKILL to worker process 59260
+-- WARNING  [westpa.work_managers.zeromq.core] -- sending SIGKILL to worker process 59261
+-- WARNING  [westpa.work_managers.zeromq.core] -- sending SIGKILL to worker process 59265

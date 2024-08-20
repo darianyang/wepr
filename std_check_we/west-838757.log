@@ -1,0 +1,16 @@
+Updating system with the options from the configuration file
+Maximum wallclock time: 0:59:59
+
+Tue Apr 23 11:23:34 2024
+Iteration 6 (7 requested)
+Continuing iteration 6
+17 segments remain in iteration 6 (25 total)
+1 of 1 (100.000000%) active bins are populated
+per-bin minimum non-zero probability:       1
+per-bin maximum probability:                1
+per-bin probability dynamic range (kT):     0
+per-segment minimum non-zero probability:   0.04
+per-segment maximum non-zero probability:   0.04
+per-segment probability dynamic range (kT): 0
+norm = 1, error in norm = 0 (0*epsilon)
+Waiting for segments to complete...
