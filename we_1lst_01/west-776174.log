@@ -1,0 +1,18 @@
+Updating system with the options from the configuration file
+Maximum wallclock time: 2 days, 23:59:59
+
+Wed Feb  7 11:46:28 2024
+Iteration 69 (500 requested)
+Continuing iteration 69
+280 segments remain in iteration 69 (288 total)
+36 of 40 (90.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.48464e-29
+per-bin maximum probability:                0.586155
+per-bin probability dynamic range (kT):     65.8456
+per-segment minimum non-zero probability:   1.8558e-30
+per-segment maximum non-zero probability:   0.108171
+per-segment probability dynamic range (kT): 66.2352
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...

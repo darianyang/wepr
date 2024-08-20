@@ -1,0 +1,7 @@
+cp: missing destination file operand after '/ihome/ssaxena/shp176/bgfs/we_1lst_02/common_files/1lst.prmtop'
+Try 'cp --help' for more information.
+cp: missing destination file operand after '/ihome/ssaxena/shp176/bgfs/we_1lst_02/bstates/1/bstate.ncrst'
+Try 'cp --help' for more information.
+cp: missing destination file operand after '/ihome/ssaxena/shp176/bgfs/we_1lst_02/common_files/1lst.prmtop'
+Try 'cp --help' for more information.
+cp: cannot create regular file '/parent.ncrst': Permission denied

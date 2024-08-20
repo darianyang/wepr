@@ -1,0 +1,1544 @@
+Updating system with the options from the configuration file
+Maximum wallclock time: 2 days, 23:59:59
+
+Wed Mar  6 10:53:51 2024
+Iteration 120 (200 requested)
+Beginning iteration 120
+128 segments remain in iteration 120 (128 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.43728e-18
+per-bin maximum probability:                0.51344
+per-bin probability dynamic range (kT):     39.889
+per-segment minimum non-zero probability:   6.0932e-19
+per-segment maximum non-zero probability:   0.205195
+per-segment probability dynamic range (kT): 40.3582
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:40:14.986198, cputime: 3:03:28.038151
+
+
+Wed Mar  6 11:34:06 2024
+Iteration 121 (200 requested)
+Beginning iteration 121
+124 segments remain in iteration 121 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.21864e-18
+per-bin maximum probability:                0.492618
+per-bin probability dynamic range (kT):     40.5408
+per-segment minimum non-zero probability:   3.0466e-19
+per-segment maximum non-zero probability:   0.205195
+per-segment probability dynamic range (kT): 41.0513
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:52.153068, cputime: 2:57:24.888903
+
+
+Wed Mar  6 12:10:59 2024
+Iteration 122 (200 requested)
+Beginning iteration 122
+124 segments remain in iteration 122 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       6.0932e-19
+per-bin maximum probability:                0.510109
+per-bin probability dynamic range (kT):     41.2688
+per-segment minimum non-zero probability:   1.5233e-19
+per-segment maximum non-zero probability:   0.177497
+per-segment probability dynamic range (kT): 41.5994
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:05.638530, cputime: 2:54:00.202895
+
+
+Wed Mar  6 12:48:04 2024
+Iteration 123 (200 requested)
+Beginning iteration 123
+128 segments remain in iteration 123 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.58977e-17
+per-bin maximum probability:                0.631977
+per-bin probability dynamic range (kT):     37.7335
+per-segment minimum non-zero probability:   6.47444e-18
+per-segment maximum non-zero probability:   0.206845
+per-segment probability dynamic range (kT): 38.0029
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:38:32.659663, cputime: 3:03:33.912922
+
+
+Wed Mar  6 13:26:37 2024
+Iteration 124 (200 requested)
+Beginning iteration 124
+128 segments remain in iteration 124 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       6.47444e-18
+per-bin maximum probability:                0.355794
+per-bin probability dynamic range (kT):     38.5453
+per-segment minimum non-zero probability:   1.61861e-18
+per-segment maximum non-zero probability:   0.125768
+per-segment probability dynamic range (kT): 38.8916
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:38:50.574199, cputime: 3:03:13.664824
+
+
+Wed Mar  6 14:05:28 2024
+Iteration 125 (200 requested)
+Beginning iteration 125
+128 segments remain in iteration 125 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.61861e-18
+per-bin maximum probability:                0.685736
+per-bin probability dynamic range (kT):     40.5877
+per-segment minimum non-zero probability:   4.04652e-19
+per-segment maximum non-zero probability:   0.210616
+per-segment probability dynamic range (kT): 40.7935
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:38:46.414995, cputime: 3:01:53.821577
+
+
+Wed Mar  6 14:44:14 2024
+Iteration 126 (200 requested)
+Beginning iteration 126
+116 segments remain in iteration 126 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       4.04652e-19
+per-bin maximum probability:                0.610263
+per-bin probability dynamic range (kT):     41.8574
+per-segment minimum non-zero probability:   1.01163e-19
+per-segment maximum non-zero probability:   0.178297
+per-segment probability dynamic range (kT): 42.0132
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:50.885346, cputime: 2:46:51.650547
+
+
+Wed Mar  6 15:20:05 2024
+Iteration 127 (200 requested)
+Beginning iteration 127
+120 segments remain in iteration 127 (120 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.01163e-19
+per-bin maximum probability:                0.843301
+per-bin probability dynamic range (kT):     43.5671
+per-segment minimum non-zero probability:   2.52908e-20
+per-segment maximum non-zero probability:   0.233038
+per-segment probability dynamic range (kT): 43.6673
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:11.482622, cputime: 2:51:36.733706
+
+
+Wed Mar  6 15:56:16 2024
+Iteration 128 (200 requested)
+Beginning iteration 128
+116 segments remain in iteration 128 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.39843e-15
+per-bin maximum probability:                0.954982
+per-bin probability dynamic range (kT):     33.2694
+per-segment minimum non-zero probability:   5.48028e-16
+per-segment maximum non-zero probability:   0.337224
+per-segment probability dynamic range (kT): 34.0532
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:57.794878, cputime: 2:45:24.350189
+
+
+Wed Mar  6 16:31:14 2024
+Iteration 129 (200 requested)
+Beginning iteration 129
+112 segments remain in iteration 129 (112 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.06177e-15
+per-bin maximum probability:                0.782124
+per-bin probability dynamic range (kT):     33.5695
+per-segment minimum non-zero probability:   5.15442e-16
+per-segment maximum non-zero probability:   0.337224
+per-segment probability dynamic range (kT): 34.1145
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:07.351424, cputime: 2:39:18.709816
+
+
+Wed Mar  6 17:05:22 2024
+Iteration 130 (200 requested)
+Beginning iteration 130
+124 segments remain in iteration 130 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       5.15442e-16
+per-bin maximum probability:                0.663357
+per-bin probability dynamic range (kT):     34.7911
+per-segment minimum non-zero probability:   1.2886e-16
+per-segment maximum non-zero probability:   0.233038
+per-segment probability dynamic range (kT): 35.1312
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:15.836859, cputime: 2:58:26.966778
+
+
+Wed Mar  6 17:42:37 2024
+Iteration 131 (200 requested)
+Beginning iteration 131
+120 segments remain in iteration 131 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.57721e-16
+per-bin maximum probability:                0.806141
+per-bin probability dynamic range (kT):     35.6792
+per-segment minimum non-zero probability:   6.44302e-17
+per-segment maximum non-zero probability:   0.233038
+per-segment probability dynamic range (kT): 35.8244
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:35.013992, cputime: 2:51:20.234721
+
+
+Wed Mar  6 18:19:13 2024
+Iteration 132 (200 requested)
+Beginning iteration 132
+128 segments remain in iteration 132 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       6.44302e-17
+per-bin maximum probability:                0.486093
+per-bin probability dynamic range (kT):     36.5596
+per-segment minimum non-zero probability:   1.61076e-17
+per-segment maximum non-zero probability:   0.205503
+per-segment probability dynamic range (kT): 37.0849
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:38:28.594258, cputime: 3:02:17.241982
+
+
+Wed Mar  6 18:57:41 2024
+Iteration 133 (200 requested)
+Beginning iteration 133
+124 segments remain in iteration 133 (124 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.61076e-17
+per-bin maximum probability:                0.610872
+per-bin probability dynamic range (kT):     38.1744
+per-segment minimum non-zero probability:   4.02689e-18
+per-segment maximum non-zero probability:   0.205503
+per-segment probability dynamic range (kT): 38.4712
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:19.970124, cputime: 2:56:49.256488
+
+
+Wed Mar  6 19:35:01 2024
+Iteration 134 (200 requested)
+Beginning iteration 134
+124 segments remain in iteration 134 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       8.05378e-18
+per-bin maximum probability:                0.461112
+per-bin probability dynamic range (kT):     38.5863
+per-segment minimum non-zero probability:   2.01344e-18
+per-segment maximum non-zero probability:   0.176442
+per-segment probability dynamic range (kT): 39.0119
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:16.959172, cputime: 2:58:28.770660
+
+
+Wed Mar  6 20:12:18 2024
+Iteration 135 (200 requested)
+Beginning iteration 135
+112 segments remain in iteration 135 (112 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.03174e-16
+per-bin maximum probability:                0.730644
+per-bin probability dynamic range (kT):     35.8186
+per-segment minimum non-zero probability:   5.07936e-17
+per-segment maximum non-zero probability:   0.228927
+per-segment probability dynamic range (kT): 36.0444
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:43.248488, cputime: 2:39:56.888432
+
+
+Wed Mar  6 20:48:01 2024
+Iteration 136 (200 requested)
+Beginning iteration 136
+124 segments remain in iteration 136 (124 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       5.07936e-17
+per-bin maximum probability:                0.579446
+per-bin probability dynamic range (kT):     36.9731
+per-segment minimum non-zero probability:   1.26984e-17
+per-segment maximum non-zero probability:   0.228927
+per-segment probability dynamic range (kT): 37.4307
+norm = 1, error in norm = -2.22045e-16 (-1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:20.941492, cputime: 2:58:36.365834
+
+
+Wed Mar  6 21:25:22 2024
+Iteration 137 (200 requested)
+Beginning iteration 137
+116 segments remain in iteration 137 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.26984e-17
+per-bin maximum probability:                0.726372
+per-bin probability dynamic range (kT):     38.5854
+per-segment minimum non-zero probability:   3.1746e-18
+per-segment maximum non-zero probability:   0.228927
+per-segment probability dynamic range (kT): 38.817
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:40.426099, cputime: 2:46:43.565516
+
+
+Wed Mar  6 22:00:03 2024
+Iteration 138 (200 requested)
+Beginning iteration 138
+112 segments remain in iteration 138 (112 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.1746e-18
+per-bin maximum probability:                0.859512
+per-bin probability dynamic range (kT):     40.14
+per-segment minimum non-zero probability:   7.93649e-19
+per-segment maximum non-zero probability:   0.295649
+per-segment probability dynamic range (kT): 40.4591
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:08.455728, cputime: 2:41:42.761026
+
+
+Wed Mar  6 22:34:11 2024
+Iteration 139 (200 requested)
+Beginning iteration 139
+112 segments remain in iteration 139 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       7.93649e-19
+per-bin maximum probability:                0.872576
+per-bin probability dynamic range (kT):     41.5413
+per-segment minimum non-zero probability:   1.98412e-19
+per-segment maximum non-zero probability:   0.295649
+per-segment probability dynamic range (kT): 41.8454
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:49.232939, cputime: 2:39:43.970684
+
+
+Wed Mar  6 23:08:01 2024
+Iteration 140 (200 requested)
+Beginning iteration 140
+116 segments remain in iteration 140 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.98412e-19
+per-bin maximum probability:                0.717616
+per-bin probability dynamic range (kT):     42.7321
+per-segment minimum non-zero probability:   4.96031e-20
+per-segment maximum non-zero probability:   0.295649
+per-segment probability dynamic range (kT): 43.2317
+norm = 1, error in norm = -2.22045e-16 (-1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:28.141957, cputime: 2:46:01.590000
+
+
+Wed Mar  6 23:42:29 2024
+Iteration 141 (200 requested)
+Beginning iteration 141
+120 segments remain in iteration 141 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       4.96031e-20
+per-bin maximum probability:                0.665422
+per-bin probability dynamic range (kT):     44.0429
+per-segment minimum non-zero probability:   1.24008e-20
+per-segment maximum non-zero probability:   0.295649
+per-segment probability dynamic range (kT): 44.6179
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:10.357022, cputime: 2:51:25.351976
+
+
+Thu Mar  7 00:18:39 2024
+Iteration 142 (200 requested)
+Beginning iteration 142
+120 segments remain in iteration 142 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.24008e-20
+per-bin maximum probability:                0.717919
+per-bin probability dynamic range (kT):     45.5051
+per-segment minimum non-zero probability:   3.10019e-21
+per-segment maximum non-zero probability:   0.295649
+per-segment probability dynamic range (kT): 46.0042
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:35.459188, cputime: 2:50:12.381655
+
+
+Thu Mar  7 00:55:14 2024
+Iteration 143 (200 requested)
+Beginning iteration 143
+128 segments remain in iteration 143 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       3.10019e-21
+per-bin maximum probability:                0.565929
+per-bin probability dynamic range (kT):     46.6535
+per-segment minimum non-zero probability:   7.75048e-22
+per-segment maximum non-zero probability:   0.197099
+per-segment probability dynamic range (kT): 46.9851
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:39:22.957925, cputime: 3:04:14.947903
+
+
+Thu Mar  7 01:34:37 2024
+Iteration 144 (200 requested)
+Beginning iteration 144
+120 segments remain in iteration 144 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       7.75048e-22
+per-bin maximum probability:                0.87411
+per-bin probability dynamic range (kT):     48.4746
+per-segment minimum non-zero probability:   1.93762e-22
+per-segment maximum non-zero probability:   0.27028
+per-segment probability dynamic range (kT): 48.6871
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:18.719844, cputime: 2:51:31.220847
+
+
+Thu Mar  7 02:10:56 2024
+Iteration 145 (200 requested)
+Beginning iteration 145
+112 segments remain in iteration 145 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.93762e-22
+per-bin maximum probability:                0.89249
+per-bin probability dynamic range (kT):     49.8817
+per-segment minimum non-zero probability:   4.84405e-23
+per-segment maximum non-zero probability:   0.27028
+per-segment probability dynamic range (kT): 50.0734
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:52.098497, cputime: 2:42:46.902010
+
+
+Thu Mar  7 02:44:48 2024
+Iteration 146 (200 requested)
+Beginning iteration 146
+124 segments remain in iteration 146 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       4.84405e-23
+per-bin maximum probability:                0.429577
+per-bin probability dynamic range (kT):     50.5368
+per-segment minimum non-zero probability:   1.21101e-23
+per-segment maximum non-zero probability:   0.197099
+per-segment probability dynamic range (kT): 51.144
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:01.229738, cputime: 2:57:58.606256
+
+
+Thu Mar  7 03:21:50 2024
+Iteration 147 (200 requested)
+Beginning iteration 147
+112 segments remain in iteration 147 (112 total)
+26 of 40 (65.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.21101e-23
+per-bin maximum probability:                0.718407
+per-bin probability dynamic range (kT):     52.4373
+per-segment minimum non-zero probability:   3.02753e-24
+per-segment maximum non-zero probability:   0.197099
+per-segment probability dynamic range (kT): 52.5302
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:59.662050, cputime: 2:39:58.747115
+
+
+Thu Mar  7 03:55:49 2024
+Iteration 148 (200 requested)
+Beginning iteration 148
+116 segments remain in iteration 148 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.02753e-24
+per-bin maximum probability:                0.887273
+per-bin probability dynamic range (kT):     54.0347
+per-segment minimum non-zero probability:   7.56883e-25
+per-segment maximum non-zero probability:   0.289457
+per-segment probability dynamic range (kT): 54.3008
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:51.613962, cputime: 2:46:43.058159
+
+
+Thu Mar  7 04:30:41 2024
+Iteration 149 (200 requested)
+Beginning iteration 149
+120 segments remain in iteration 149 (120 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       7.56883e-25
+per-bin maximum probability:                0.723019
+per-bin probability dynamic range (kT):     55.2163
+per-segment minimum non-zero probability:   1.89221e-25
+per-segment maximum non-zero probability:   0.227104
+per-segment probability dynamic range (kT): 55.4445
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:01.972771, cputime: 2:51:54.898514
+
+
+Thu Mar  7 05:06:43 2024
+Iteration 150 (200 requested)
+Beginning iteration 150
+112 segments remain in iteration 150 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.89221e-25
+per-bin maximum probability:                0.869175
+per-bin probability dynamic range (kT):     56.7867
+per-segment minimum non-zero probability:   4.73052e-26
+per-segment maximum non-zero probability:   0.271359
+per-segment probability dynamic range (kT): 57.0089
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:46.897009, cputime: 2:39:37.530001
+
+
+Thu Mar  7 05:40:30 2024
+Iteration 151 (200 requested)
+Beginning iteration 151
+112 segments remain in iteration 151 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       4.73052e-26
+per-bin maximum probability:                0.604236
+per-bin probability dynamic range (kT):     57.8094
+per-segment minimum non-zero probability:   1.18263e-26
+per-segment maximum non-zero probability:   0.227104
+per-segment probability dynamic range (kT): 58.2171
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:48.113174, cputime: 2:40:47.060377
+
+
+Thu Mar  7 06:14:18 2024
+Iteration 152 (200 requested)
+Beginning iteration 152
+108 segments remain in iteration 152 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.02273e-24
+per-bin maximum probability:                0.794368
+per-bin probability dynamic range (kT):     55.0094
+per-segment minimum non-zero probability:   2.55684e-25
+per-segment maximum non-zero probability:   0.227104
+per-segment probability dynamic range (kT): 55.1435
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:32:31.371666, cputime: 2:34:37.301669
+
+
+Thu Mar  7 06:46:49 2024
+Iteration 153 (200 requested)
+Beginning iteration 153
+100 segments remain in iteration 153 (100 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.55684e-25
+per-bin maximum probability:                0.862207
+per-bin probability dynamic range (kT):     56.4776
+per-segment minimum non-zero probability:   6.39209e-26
+per-segment maximum non-zero probability:   0.227104
+per-segment probability dynamic range (kT): 56.5298
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:29:58.888305, cputime: 2:23:26.416567
+
+
+Thu Mar  7 07:16:48 2024
+Iteration 154 (200 requested)
+Beginning iteration 154
+100 segments remain in iteration 154 (100 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       6.39209e-26
+per-bin maximum probability:                0.916537
+per-bin probability dynamic range (kT):     57.925
+per-segment minimum non-zero probability:   1.59802e-26
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 58.1425
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:30:27.207720, cputime: 2:23:59.728744
+
+
+Thu Mar  7 07:47:16 2024
+Iteration 155 (200 requested)
+Beginning iteration 155
+108 segments remain in iteration 155 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.59802e-26
+per-bin maximum probability:                0.925017
+per-bin probability dynamic range (kT):     59.3205
+per-segment minimum non-zero probability:   3.99506e-27
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 59.5288
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:31:51.592177, cputime: 2:33:49.481630
+
+
+Thu Mar  7 08:19:07 2024
+Iteration 156 (200 requested)
+Beginning iteration 156
+108 segments remain in iteration 156 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.99506e-27
+per-bin maximum probability:                0.723371
+per-bin probability dynamic range (kT):     60.4609
+per-segment minimum non-zero probability:   9.98764e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 60.9151
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:32:57.954969, cputime: 2:35:35.790628
+
+
+Thu Mar  7 08:52:05 2024
+Iteration 157 (200 requested)
+Beginning iteration 157
+108 segments remain in iteration 157 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.99753e-27
+per-bin maximum probability:                0.930764
+per-bin probability dynamic range (kT):     61.4061
+per-segment minimum non-zero probability:   4.99382e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 61.6082
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:32:04.245333, cputime: 2:34:41.957240
+
+
+Thu Mar  7 09:24:09 2024
+Iteration 158 (200 requested)
+Beginning iteration 158
+108 segments remain in iteration 158 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       9.98764e-28
+per-bin maximum probability:                0.952302
+per-bin probability dynamic range (kT):     62.1222
+per-segment minimum non-zero probability:   2.49691e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 62.3014
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:32:56.986667, cputime: 2:35:42.444790
+
+
+Thu Mar  7 09:57:07 2024
+Iteration 159 (200 requested)
+Beginning iteration 159
+120 segments remain in iteration 159 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       9.98764e-27
+per-bin maximum probability:                0.956947
+per-bin probability dynamic range (kT):     59.8244
+per-segment minimum non-zero probability:   2.49691e-27
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 59.9988
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:02.856488, cputime: 2:53:17.289479
+
+
+Thu Mar  7 10:33:09 2024
+Iteration 160 (200 requested)
+Beginning iteration 160
+124 segments remain in iteration 160 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.49691e-27
+per-bin maximum probability:                0.95768
+per-bin probability dynamic range (kT):     61.2115
+per-segment minimum non-zero probability:   6.24227e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 61.3851
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:04.067574, cputime: 2:57:16.847218
+
+
+Thu Mar  7 11:10:13 2024
+Iteration 161 (200 requested)
+Beginning iteration 161
+112 segments remain in iteration 161 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.24845e-27
+per-bin maximum probability:                0.964479
+per-bin probability dynamic range (kT):     61.9117
+per-segment minimum non-zero probability:   3.12114e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 62.0782
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:09.070242, cputime: 2:41:09.160094
+
+
+Thu Mar  7 11:44:23 2024
+Iteration 162 (200 requested)
+Beginning iteration 162
+112 segments remain in iteration 162 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.24845e-27
+per-bin maximum probability:                0.964479
+per-bin probability dynamic range (kT):     61.9117
+per-segment minimum non-zero probability:   3.12114e-28
+per-segment maximum non-zero probability:   0.284801
+per-segment probability dynamic range (kT): 62.0782
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:47.798034, cputime: 2:42:14.398194
+
+
+Thu Mar  7 12:18:10 2024
+Iteration 163 (200 requested)
+Beginning iteration 163
+120 segments remain in iteration 163 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       3.12114e-28
+per-bin maximum probability:                0.738042
+per-bin probability dynamic range (kT):     63.0304
+per-segment minimum non-zero probability:   7.80284e-29
+per-segment maximum non-zero probability:   0.227118
+per-segment probability dynamic range (kT): 63.2382
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:06.008910, cputime: 2:51:49.302065
+
+
+Thu Mar  7 12:54:16 2024
+Iteration 164 (200 requested)
+Beginning iteration 164
+116 segments remain in iteration 164 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.56057e-28
+per-bin maximum probability:                0.87047
+per-bin probability dynamic range (kT):     63.8886
+per-segment minimum non-zero probability:   3.90142e-29
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 64.0163
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:34.216023, cputime: 2:46:00.499118
+
+
+Thu Mar  7 13:28:51 2024
+Iteration 165 (200 requested)
+Beginning iteration 165
+112 segments remain in iteration 165 (112 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.90142e-29
+per-bin maximum probability:                0.714656
+per-bin probability dynamic range (kT):     65.0777
+per-segment minimum non-zero probability:   9.75355e-30
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 65.4026
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:04.030020, cputime: 2:40:00.029525
+
+
+Thu Mar  7 14:02:55 2024
+Iteration 166 (200 requested)
+Beginning iteration 166
+128 segments remain in iteration 166 (128 total)
+32 of 40 (80.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.56057e-28
+per-bin maximum probability:                0.728197
+per-bin probability dynamic range (kT):     63.7101
+per-segment minimum non-zero probability:   3.90142e-29
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 64.0163
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:38:51.122681, cputime: 3:02:37.208688
+
+
+Thu Mar  7 14:41:46 2024
+Iteration 167 (200 requested)
+Beginning iteration 167
+128 segments remain in iteration 167 (128 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.90142e-29
+per-bin maximum probability:                0.48818
+per-bin probability dynamic range (kT):     64.6966
+per-segment minimum non-zero probability:   9.75355e-30
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 65.4026
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:39:13.152412, cputime: 3:04:31.233946
+
+
+Thu Mar  7 15:20:59 2024
+Iteration 168 (200 requested)
+Beginning iteration 168
+112 segments remain in iteration 168 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       9.75355e-30
+per-bin maximum probability:                0.964871
+per-bin probability dynamic range (kT):     66.7642
+per-segment minimum non-zero probability:   2.43839e-30
+per-segment maximum non-zero probability:   0.306726
+per-segment probability dynamic range (kT): 67.0044
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:12.725037, cputime: 2:42:09.154058
+
+
+Thu Mar  7 15:55:12 2024
+Iteration 169 (200 requested)
+Beginning iteration 169
+104 segments remain in iteration 169 (104 total)
+26 of 40 (65.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.43839e-30
+per-bin maximum probability:                0.965614
+per-bin probability dynamic range (kT):     68.1512
+per-segment minimum non-zero probability:   6.09597e-31
+per-segment maximum non-zero probability:   0.306726
+per-segment probability dynamic range (kT): 68.3907
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:31:32.642080, cputime: 2:28:36.347758
+
+
+Thu Mar  7 16:26:45 2024
+Iteration 170 (200 requested)
+Beginning iteration 170
+112 segments remain in iteration 170 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       4.87678e-30
+per-bin maximum probability:                0.965612
+per-bin probability dynamic range (kT):     67.4581
+per-segment minimum non-zero probability:   6.09597e-31
+per-segment maximum non-zero probability:   0.306726
+per-segment probability dynamic range (kT): 68.3907
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:02.354511, cputime: 2:39:18.615861
+
+
+Thu Mar  7 17:00:47 2024
+Iteration 171 (200 requested)
+Beginning iteration 171
+112 segments remain in iteration 171 (112 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.21919e-30
+per-bin maximum probability:                0.965614
+per-bin probability dynamic range (kT):     68.8444
+per-segment minimum non-zero probability:   3.04799e-31
+per-segment maximum non-zero probability:   0.306726
+per-segment probability dynamic range (kT): 69.0839
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:06.313869, cputime: 2:41:39.620869
+
+
+Thu Mar  7 17:34:53 2024
+Iteration 172 (200 requested)
+Beginning iteration 172
+112 segments remain in iteration 172 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       3.04799e-31
+per-bin maximum probability:                0.781106
+per-bin probability dynamic range (kT):     70.0186
+per-segment minimum non-zero probability:   7.61996e-32
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 70.2546
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:44.955572, cputime: 2:42:10.286102
+
+
+Thu Mar  7 18:09:38 2024
+Iteration 173 (200 requested)
+Beginning iteration 173
+104 segments remain in iteration 173 (104 total)
+26 of 40 (65.000000%) active bins are populated
+per-bin minimum non-zero probability:       7.61996e-32
+per-bin maximum probability:                0.919487
+per-bin probability dynamic range (kT):     71.568
+per-segment minimum non-zero probability:   1.90499e-32
+per-segment maximum non-zero probability:   0.291745
+per-segment probability dynamic range (kT): 71.8064
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:31:37.154341, cputime: 2:30:03.510864
+
+
+Thu Mar  7 18:41:16 2024
+Iteration 174 (200 requested)
+Beginning iteration 174
+100 segments remain in iteration 174 (100 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.90499e-32
+per-bin maximum probability:                0.965614
+per-bin probability dynamic range (kT):     73.0033
+per-segment minimum non-zero probability:   4.76248e-33
+per-segment maximum non-zero probability:   0.291745
+per-segment probability dynamic range (kT): 73.1927
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:30:27.867445, cputime: 2:24:08.543117
+
+
+Thu Mar  7 19:11:44 2024
+Iteration 175 (200 requested)
+Beginning iteration 175
+112 segments remain in iteration 175 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       4.76248e-33
+per-bin maximum probability:                0.965614
+per-bin probability dynamic range (kT):     74.3895
+per-segment minimum non-zero probability:   1.19062e-33
+per-segment maximum non-zero probability:   0.291745
+per-segment probability dynamic range (kT): 74.579
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:39.972625, cputime: 2:40:00.331281
+
+
+Thu Mar  7 19:45:24 2024
+Iteration 176 (200 requested)
+Beginning iteration 176
+108 segments remain in iteration 176 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.19062e-33
+per-bin maximum probability:                0.766124
+per-bin probability dynamic range (kT):     75.5444
+per-segment minimum non-zero probability:   2.97655e-34
+per-segment maximum non-zero probability:   0.247261
+per-segment probability dynamic range (kT): 75.7998
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:32:58.647074, cputime: 2:35:07.716392
+
+
+Thu Mar  7 20:18:22 2024
+Iteration 177 (200 requested)
+Beginning iteration 177
+112 segments remain in iteration 177 (112 total)
+24 of 40 (60.000000%) active bins are populated
+per-bin minimum non-zero probability:       8.92964e-34
+per-bin maximum probability:                0.770477
+per-bin probability dynamic range (kT):     75.8378
+per-segment minimum non-zero probability:   1.48827e-34
+per-segment maximum non-zero probability:   0.145872
+per-segment probability dynamic range (kT): 75.9653
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:32.817653, cputime: 2:40:42.813096
+
+
+Thu Mar  7 20:52:55 2024
+Iteration 178 (200 requested)
+Beginning iteration 178
+104 segments remain in iteration 178 (104 total)
+26 of 40 (65.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.48827e-34
+per-bin maximum probability:                0.916548
+per-bin probability dynamic range (kT):     77.8031
+per-segment minimum non-zero probability:   3.72069e-35
+per-segment maximum non-zero probability:   0.307868
+per-segment probability dynamic range (kT): 78.0985
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:31:35.093068, cputime: 2:28:58.211831
+
+
+Thu Mar  7 21:24:30 2024
+Iteration 179 (200 requested)
+Beginning iteration 179
+100 segments remain in iteration 179 (100 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.72069e-35
+per-bin maximum probability:                0.621148
+per-bin probability dynamic range (kT):     78.8004
+per-segment minimum non-zero probability:   9.30171e-36
+per-segment maximum non-zero probability:   0.227118
+per-segment probability dynamic range (kT): 79.1806
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:30:15.093185, cputime: 2:23:40.730346
+
+
+Thu Mar  7 21:54:45 2024
+Iteration 180 (200 requested)
+Beginning iteration 180
+100 segments remain in iteration 180 (100 total)
+25 of 40 (62.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.86034e-35
+per-bin maximum probability:                0.877184
+per-bin probability dynamic range (kT):     79.8387
+per-segment minimum non-zero probability:   4.65086e-36
+per-segment maximum non-zero probability:   0.268504
+per-segment probability dynamic range (kT): 80.0411
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:30:59.192176, cputime: 2:24:25.609252
+
+
+Thu Mar  7 22:25:45 2024
+Iteration 181 (200 requested)
+Beginning iteration 181
+112 segments remain in iteration 181 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       4.65086e-36
+per-bin maximum probability:                0.400803
+per-bin probability dynamic range (kT):     80.4417
+per-segment minimum non-zero probability:   1.16271e-36
+per-segment maximum non-zero probability:   0.185446
+per-segment probability dynamic range (kT): 81.0573
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:01.189860, cputime: 2:38:44.086923
+
+
+Thu Mar  7 22:59:46 2024
+Iteration 182 (200 requested)
+Beginning iteration 182
+108 segments remain in iteration 182 (108 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.16271e-36
+per-bin maximum probability:                0.42189
+per-bin probability dynamic range (kT):     81.8793
+per-segment minimum non-zero probability:   2.90679e-37
+per-segment maximum non-zero probability:   0.134252
+per-segment probability dynamic range (kT): 82.1206
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:04.514270, cputime: 2:36:46.364512
+
+
+Thu Mar  7 23:32:50 2024
+Iteration 183 (200 requested)
+Beginning iteration 183
+116 segments remain in iteration 183 (116 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.90679e-37
+per-bin maximum probability:                0.494391
+per-bin probability dynamic range (kT):     83.4242
+per-segment minimum non-zero probability:   7.26696e-38
+per-segment maximum non-zero probability:   0.185446
+per-segment probability dynamic range (kT): 83.8299
+norm = 1, error in norm = 4.44089e-16 (2*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:01.490060, cputime: 2:46:47.820974
+
+
+Fri Mar  8 00:07:52 2024
+Iteration 184 (200 requested)
+Beginning iteration 184
+116 segments remain in iteration 184 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       4.36018e-37
+per-bin maximum probability:                0.662053
+per-bin probability dynamic range (kT):     83.3107
+per-segment minimum non-zero probability:   9.68928e-38
+per-segment maximum non-zero probability:   0.195386
+per-segment probability dynamic range (kT): 83.5944
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:21.321136, cputime: 2:47:33.096497
+
+
+Fri Mar  8 00:43:13 2024
+Iteration 185 (200 requested)
+Beginning iteration 185
+116 segments remain in iteration 185 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       3.78126e-27
+per-bin maximum probability:                0.385794
+per-bin probability dynamic range (kT):     59.8873
+per-segment minimum non-zero probability:   9.45314e-28
+per-segment maximum non-zero probability:   0.167662
+per-segment probability dynamic range (kT): 60.4402
+norm = 1, error in norm = -1.11022e-16 (-0.5*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:32.152952, cputime: 2:48:02.123097
+
+
+Fri Mar  8 01:18:45 2024
+Iteration 186 (200 requested)
+Beginning iteration 186
+120 segments remain in iteration 186 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       9.45314e-28
+per-bin maximum probability:                0.499353
+per-bin probability dynamic range (kT):     61.5316
+per-segment minimum non-zero probability:   2.36329e-28
+per-segment maximum non-zero probability:   0.167662
+per-segment probability dynamic range (kT): 61.8265
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:26.933022, cputime: 2:50:57.031025
+
+
+Fri Mar  8 01:55:12 2024
+Iteration 187 (200 requested)
+Beginning iteration 187
+120 segments remain in iteration 187 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.36329e-28
+per-bin maximum probability:                0.601371
+per-bin probability dynamic range (kT):     63.1038
+per-segment minimum non-zero probability:   5.90821e-29
+per-segment maximum non-zero probability:   0.194741
+per-segment probability dynamic range (kT): 63.3625
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:16.297462, cputime: 2:50:24.603785
+
+
+Fri Mar  8 02:31:29 2024
+Iteration 188 (200 requested)
+Beginning iteration 188
+112 segments remain in iteration 188 (112 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       5.90821e-29
+per-bin maximum probability:                0.440289
+per-bin probability dynamic range (kT):     64.1783
+per-segment minimum non-zero probability:   1.47705e-29
+per-segment maximum non-zero probability:   0.167662
+per-segment probability dynamic range (kT): 64.5991
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:47.922595, cputime: 2:42:04.035223
+
+
+Fri Mar  8 03:05:17 2024
+Iteration 189 (200 requested)
+Beginning iteration 189
+112 segments remain in iteration 189 (112 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       1.47705e-29
+per-bin maximum probability:                0.492692
+per-bin probability dynamic range (kT):     65.677
+per-segment minimum non-zero probability:   3.69263e-30
+per-segment maximum non-zero probability:   0.125409
+per-segment probability dynamic range (kT): 65.695
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:54.327053, cputime: 2:39:55.617653
+
+
+Fri Mar  8 03:39:11 2024
+Iteration 190 (200 requested)
+Beginning iteration 190
+120 segments remain in iteration 190 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       3.69263e-30
+per-bin maximum probability:                0.427366
+per-bin probability dynamic range (kT):     66.9211
+per-segment minimum non-zero probability:   9.23159e-31
+per-segment maximum non-zero probability:   0.129582
+per-segment probability dynamic range (kT): 67.1141
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:14.312050, cputime: 2:54:36.208350
+
+
+Fri Mar  8 04:15:26 2024
+Iteration 191 (200 requested)
+Beginning iteration 191
+124 segments remain in iteration 191 (124 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       9.23159e-31
+per-bin maximum probability:                0.529589
+per-bin probability dynamic range (kT):     68.5219
+per-segment minimum non-zero probability:   2.3079e-31
+per-segment maximum non-zero probability:   0.129582
+per-segment probability dynamic range (kT): 68.5004
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:29.039913, cputime: 2:59:24.132648
+
+
+Fri Mar  8 04:52:55 2024
+Iteration 192 (200 requested)
+Beginning iteration 192
+116 segments remain in iteration 192 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.3079e-31
+per-bin maximum probability:                0.659629
+per-bin probability dynamic range (kT):     70.1277
+per-segment minimum non-zero probability:   5.76974e-32
+per-segment maximum non-zero probability:   0.224278
+per-segment probability dynamic range (kT): 70.4352
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:35:17.433216, cputime: 2:47:54.947837
+
+
+Fri Mar  8 05:28:12 2024
+Iteration 193 (200 requested)
+Beginning iteration 193
+120 segments remain in iteration 193 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       5.76974e-32
+per-bin maximum probability:                0.372689
+per-bin probability dynamic range (kT):     70.9431
+per-segment minimum non-zero probability:   1.44244e-32
+per-segment maximum non-zero probability:   0.129582
+per-segment probability dynamic range (kT): 71.2729
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:00.468877, cputime: 2:53:01.272798
+
+
+Fri Mar  8 06:04:13 2024
+Iteration 194 (200 requested)
+Beginning iteration 194
+120 segments remain in iteration 194 (120 total)
+30 of 40 (75.000000%) active bins are populated
+per-bin minimum non-zero probability:       2.88487e-32
+per-bin maximum probability:                0.504538
+per-bin probability dynamic range (kT):     71.9391
+per-segment minimum non-zero probability:   7.21218e-33
+per-segment maximum non-zero probability:   0.152366
+per-segment probability dynamic range (kT): 72.1281
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:36:13.831171, cputime: 2:52:06.639365
+
+
+Fri Mar  8 06:40:26 2024
+Iteration 195 (200 requested)
+Beginning iteration 195
+116 segments remain in iteration 195 (116 total)
+27 of 40 (67.500000%) active bins are populated
+per-bin minimum non-zero probability:       7.21218e-33
+per-bin maximum probability:                0.88719
+per-bin probability dynamic range (kT):     73.8898
+per-segment minimum non-zero probability:   1.80304e-33
+per-segment maximum non-zero probability:   0.225172
+per-segment probability dynamic range (kT): 73.9049
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:27.162500, cputime: 2:46:14.134973
+
+
+Fri Mar  8 07:14:54 2024
+Iteration 196 (200 requested)
+Beginning iteration 196
+112 segments remain in iteration 196 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.80304e-33
+per-bin maximum probability:                0.509759
+per-bin probability dynamic range (kT):     74.722
+per-segment minimum non-zero probability:   4.50761e-34
+per-segment maximum non-zero probability:   0.211292
+per-segment probability dynamic range (kT): 75.2276
+norm = 1, error in norm = 0 (0*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:14.214046, cputime: 2:40:35.523267
+
+
+Fri Mar  8 07:49:08 2024
+Iteration 197 (200 requested)
+Beginning iteration 197
+124 segments remain in iteration 197 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       4.50761e-34
+per-bin maximum probability:                0.547875
+per-bin probability dynamic range (kT):     76.1804
+per-segment minimum non-zero probability:   1.1269e-34
+per-segment maximum non-zero probability:   0.211292
+per-segment probability dynamic range (kT): 76.6139
+norm = 1, error in norm = -2.22045e-16 (-1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:19.993839, cputime: 2:59:14.972036
+
+
+Fri Mar  8 08:26:28 2024
+Iteration 198 (200 requested)
+Beginning iteration 198
+112 segments remain in iteration 198 (112 total)
+28 of 40 (70.000000%) active bins are populated
+per-bin minimum non-zero probability:       1.1269e-34
+per-bin maximum probability:                0.862475
+per-bin probability dynamic range (kT):     78.0205
+per-segment minimum non-zero probability:   2.81726e-35
+per-segment maximum non-zero probability:   0.29836
+per-segment probability dynamic range (kT): 78.3453
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:33:41.098029, cputime: 2:41:21.960559
+
+
+Fri Mar  8 09:00:09 2024
+Iteration 199 (200 requested)
+Beginning iteration 199
+116 segments remain in iteration 199 (116 total)
+29 of 40 (72.500000%) active bins are populated
+per-bin minimum non-zero probability:       2.81726e-35
+per-bin maximum probability:                0.717508
+per-bin probability dynamic range (kT):     79.2227
+per-segment minimum non-zero probability:   7.04314e-36
+per-segment maximum non-zero probability:   0.29836
+per-segment probability dynamic range (kT): 79.7316
+norm = 1, error in norm = 2.22045e-16 (1*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:34:55.251182, cputime: 2:47:02.442839
+
+
+Fri Mar  8 09:35:04 2024
+Iteration 200 (200 requested)
+Beginning iteration 200
+124 segments remain in iteration 200 (124 total)
+31 of 40 (77.500000%) active bins are populated
+per-bin minimum non-zero probability:       7.04314e-36
+per-bin maximum probability:                0.614733
+per-bin probability dynamic range (kT):     80.4544
+per-segment minimum non-zero probability:   1.76079e-36
+per-segment maximum non-zero probability:   0.168904
+per-segment probability dynamic range (kT): 80.5489
+norm = 1, error in norm = 4.44089e-16 (2*epsilon)
+MAB binning in use
+Bottleneck bin occupancy may not be accurately reported
+Waiting for segments to complete...
+Iteration completed successfully
+Iteration wallclock: 0:37:28.413504, cputime: 2:58:51.663790
+
+
+Fri Mar  8 10:12:33 2024
+WEST run complete.

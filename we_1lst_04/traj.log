@@ -1,0 +1,37 @@
+
+CPPTRAJ: Trajectory Analysis. V4.25.6
+    ___  ___  ___  ___
+     | \/ | \/ | \/ | 
+    _|_/\_|_/\_|_/\_|_
+
+| Date/time: 06/26/24 11:17:57
+| Available memory: 8.670 GB
+
+	Reading 'common_files/1lst.prmtop' as Amber Topology
+	Radius Set: modified Bondi radii (mbondi)
+INPUT: Reading input from 'cpptraj.in'
+  [autoimage]
+Warning: Action specified before trajin/ensemble. Assuming trajin.
+    AUTOIMAGE: To box center based on center of mass, anchor is first molecule.
+  [trajout TRAJ_it200_seg121_trace.nc]
+	Writing 'TRAJ_it200_seg121_trace.nc' as Amber NetCDF
+---------- RUN BEGIN -------------------------------------------------
+Warning: No input trajectories specified.
+TIME: Analyses took 0.0000 seconds.
+
+RUN TIMING:
+TIME:		Init               : 0.0000 s (  0.00%)
+TIME:		Trajectory Process : 0.0000 s (  0.00%)
+TIME:		Action Post        : 0.0000 s (  0.00%)
+TIME:		Analysis           : 0.0000 s (  3.03%)
+TIME:		Data File Write    : 0.0000 s (  9.09%)
+TIME:		Other              : 0.0000 s (  0.88%)
+TIME:	Run Total 0.0000 s
+---------- RUN END ---------------------------------------------------
+TIME: Total execution time: 0.2017 seconds.
+--------------------------------------------------------------------------------
+To cite CPPTRAJ use:
+Daniel R. Roe and Thomas E. Cheatham, III, "PTRAJ and CPPTRAJ: Software for
+  Processing and Analysis of Molecular Dynamics Trajectory Data". J. Chem.
+  Theory Comput., 2013, 9 (7), pp 3084-3095.
+
