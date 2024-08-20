@@ -1,0 +1,8 @@
+parm ../1lst.prmtop 
+ trajin md01.nc 1 last 10
+ trajin md02.nc 1 last 10
+ autoimage 
+ reference ../bstate.ncrst [bs]
+ rmsd bb @C,CA,N ref [bs] @C,CA,N out rmsd_bb.dat
+ run 
+
