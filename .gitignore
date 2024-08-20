@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+__pycache__
+*.swp
+*.mdcrd
+*.nc
+*.ncdf
+*.dcd
+traj_segs
+seg_logs
+*.h5
+*.h5*
+mdcrd
+mdcrd
